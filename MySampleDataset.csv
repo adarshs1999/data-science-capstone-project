@@ -1,0 +1,21 @@
+,car_brand,car_model,year,km_driven,fuel,seller_type,transmission,owner,selling_price
+4282,Maruti,Wagon R,2013,52000,Petrol,Individual,Manual,First Owner,290000.0
+442,Tata,Nano Lx,2011,15000,Petrol,Individual,Manual,First Owner,75000.0
+891,Mahindra,Bolero 2011-2019,2013,107000,Diesel,Individual,Manual,First Owner,400000.0
+960,Mahindra,Renault Logan,2008,90000,Petrol,Individual,Manual,First Owner,80000.0
+3543,Ford,Fiesta 1.4,2010,110000,Petrol,Individual,Manual,First Owner,150000.0
+1364,Maruti,Alto LXi,2007,70000,Petrol,Individual,Manual,Second Owner,100000.0
+4171,Hyundai,EON Era,2013,53500,Petrol,Individual,Manual,other,219000.0
+3127,Maruti,Celerio VXI,2015,60000,Petrol,Individual,Manual,other,300000.0
+1215,Mahindra,Bolero SLX,2011,150000,Diesel,Individual,Manual,other,390000.0
+3817,Volkswagen,Jetta 1.9,2009,134000,Diesel,Individual,Automatic,First Owner,260000.0
+1685,Maruti,Swift VDI,2013,80000,Diesel,Individual,Manual,other,370000.0
+163,Jaguar,XJ 5.0,2010,40000,Petrol,Individual,Automatic,Second Owner,1186875.375
+1706,Hyundai,Accent GLX,2008,60000,Petrol,Individual,Manual,First Owner,145000.0
+3884,Chevrolet,Aveo U-VA,2008,80000,Petrol,Individual,Manual,First Owner,160000.0
+2229,Maruti,Vitara Brezza,2018,15000,Diesel,Individual,Automatic,First Owner,950000.0
+1675,Maruti,Esteem Lxi,2007,54000,Petrol,Individual,Manual,First Owner,75000.0
+1430,Maruti,Swift Dzire,2011,100000,Petrol,Individual,Manual,Second Owner,300000.0
+3367,Maruti,Swift 1.3,2007,80000,Petrol,Individual,Manual,Second Owner,73000.0
+3249,Honda,Amaze S,2016,90000,Diesel,Individual,Manual,First Owner,475000.0
+1716,Ford,Ecosport 1.5,2020,101,Diesel,Dealer,Manual,other,1000000.0
